@@ -10,7 +10,7 @@ Python
 To improve problem-solving skills and prepare for technical interviews.
 
 ## Progress
-- Arrays: 2 problems
+- Arrays: 0 problems
 - Strings: 0 problems
 
 ## Notes
